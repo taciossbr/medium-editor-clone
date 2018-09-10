@@ -21,6 +21,7 @@ export default {
       
       this.$emit('update', this.$refs.editor.innerHTML)
     },
+  }
 }
 </script>
 
